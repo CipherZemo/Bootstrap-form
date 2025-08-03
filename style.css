@@ -1,0 +1,25 @@
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #dccfa4;
+padding: 9px 20px 20px 20px;
+}
+
+/* Section Headings */
+p{
+color: #2e3a59;
+}
+
+.form-section{
+background-color: #efededc2;
+border-radius: 12px;
+padding: 2rem;
+box-shadow: 0 0 10px rgba(0,0,0,0.05);
+margin: 25px;
+}
+
+
+
+
+
+
+

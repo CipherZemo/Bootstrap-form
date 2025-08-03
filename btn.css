@@ -1,0 +1,21 @@
+/* Submit Button */
+.btn-primary{
+    background-color: #805ad5;
+    border-color: #805ad5;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.btn-primary:hover{
+    background-color: #6b46c1;
+    border-color: #6b46c1;
+}
+
+.btn-outline-primary{
+    background-color: white;
+    border-color: #805ad5;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 600;
+}

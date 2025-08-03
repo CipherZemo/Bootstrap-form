@@ -1,0 +1,22 @@
+/* Inputs */
+ .form-control, .form-select {
+    border-radius: 15px;
+    padding: 10px 14px;
+    box-shadow: none;
+    transition: border-color 0.2s ease;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #805ad5 !important;
+    border: 2px solid;
+    box-shadow: 0 0 0 0.1rem rgba(128, 90, 213, 0.25) !important;
+}
+
+
+
+/* Labels */
+.form-label {
+    font-weight: 600;
+    color:rgb(96, 75, 142)!important;
+    margin-bottom: 6px;
+}
