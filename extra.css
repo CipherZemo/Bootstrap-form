@@ -26,3 +26,19 @@
     padding: 15px;
     font-size: 14px;
 }
+
+.form-control-color{
+    border-width: 2px;
+    border-color: rgb(193, 192, 192);
+    padding: 6px;
+}
+
+input[type=color]{
+    height: 40px;
+    width: 100%;
+    padding: 6px;
+    border-color: rgba(182, 187, 199, 1);
+    border-radius: 15px;
+    cursor: pointer;
+}
+
