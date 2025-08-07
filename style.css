@@ -3,6 +3,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 background-color: rgb(211, 209, 209);
 padding-left:100px;
 padding-top: 50px;
+min-height: 2000px;
 }
 
 /* Section Headings */
@@ -17,6 +18,20 @@ padding: 2rem;
 box-shadow: 0 0 10px rgba(0,0,0,0.05);
 margin: 25px;
 }
+.form-section-save{
+background-color: white;
+border-radius: 12px;
+box-shadow: 0 0 10px rgba(0,0,0,0.05);
+width: 1180px;
+margin-top: 1px;
+margin-left: 0px;
+}
+.saverow{
+    margin: 20px;
+    margin-left: 900px;
+
+}
+
 
 
 
